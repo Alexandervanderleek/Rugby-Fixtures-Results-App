@@ -1,0 +1,9 @@
+{
+  "name": "frontend",
+  "displayName": "Rugby Fixtures and Results",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-4487344159300856~8935248051",
+    "ios_app_id": "ca-app-pub-xxxxxxxx~xxxxxxxx",
+    "delay_app_measurement_init": true
+  }
+}
